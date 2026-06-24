@@ -1,6 +1,6 @@
 # DNS servis i konfigurisanje DNS servisa na Windows Server 2019 (Maturski ispit — АРМ-Б8)
 ## Šta je ovo?
-Ovo je maturski (završni) ispitni zadatak za smer **Administrator računarskih mreža**, vezan za **DNS servis** u doménskoj mreži na domenu `sss.local`. Zadatak obuhvata: dijagnostiku i otklanjanje problema sa rezolucijom imena, instalaciju i konfiguraciju **sekundarnog DNS servera**, podešavanje **zone transfera** prema specifikaciji iz priloga, i pravljenje rezervne kopije DNS konfiguracije na deljeni direktorijum sa ograničenim pravima pristupa. Za rad je potreban Windows Server 2019 (kontroler domena) i dodatna virtuelna mašina za sekundarni DNS server — najlakše u VirtualBox okruženju.
+Ovo je vežba za administratore računarskih mreža koju sam radio tokom mog školovanja. Pocetnja stanja i potrebne fajlove nisam u mogucnosti da obezbedim, ali za ovo će Vam sigurno biti potreban VirtualBox, Windows Server 2019 .iso fail, Windows 10 .iso fajl. Zadak Vam je dat, kao i uputstvo za njegovo rešavanje. Ukoliko Vam nešto nije jasno tokom rešavanja ovih zadataka obratite mi se direktnom porukom na aplikaciji LinkedIn, www.linkedin.com/in/nikola-karanović-397185390
 
 ## Pitanja i odgovori — DNS (Domain Name System)
 
